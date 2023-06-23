@@ -1,0 +1,11 @@
+# Ignora la carpeta node_modules
+__pycache__/
+# Ignora archivos del sistema Mac
+.DS_store
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
