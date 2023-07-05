@@ -1,5 +1,6 @@
 import pytest
 from math_operations import addition
+from math_operations import addition
 
 def test_addition_returns_result_when_have_two_numbers():
     first_number = 3
