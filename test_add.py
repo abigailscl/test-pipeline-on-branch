@@ -11,3 +11,4 @@ def test_addition_returns_result_when_have_two_numbers():
      result = addition(first_number, second_number)
 
      assert expected_result == result
+
